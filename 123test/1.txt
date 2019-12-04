@@ -1,0 +1,21 @@
+__GetZoneResult_ = {
+    mts:'1358862',
+    province:'浙江',
+    catName:'中国移动',
+    telString:'13588620187',
+	areaVid:'30510',
+	ispVid:'3236139',
+	carrier:'浙江移动'
+}
+__GetZoneResult_ = {
+	province:'甘肃'
+}
+__GetZoneResult_ = {
+    mts:'1318862',
+    province:'辽宁',
+    catName:'中国联通',
+    telString:'13188620187',
+	areaVid:'30498',
+	ispVid:'137815084',
+	carrier:'辽宁联通'
+}
